@@ -1,4 +1,3 @@
-int heap1[100010];
 int heap[100010];
 int size;
 
